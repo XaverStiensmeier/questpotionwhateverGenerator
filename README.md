@@ -1,5 +1,5 @@
 # questpotionwhateverGenerator
-Generates Whatever you want at (weighted) random. This allows you to create random tables with ease!
+Generates whatever you want at (weighted) random. This allows you to create random tables with ease!
 
 ## plotg.py - The Main Program
 
