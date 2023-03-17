@@ -8,10 +8,9 @@ Every random table has to be in the src folder. You can have subfolders (see "Ho
 
 
 ### How to get started
-Rename src_dummy to src to have something to try out. Try out this function call while being in the folder "questpotionwhateverGenerator/":
+Rename src_dummy to src to use example data. Try out this function call while being in the folder "questpotionwhateverGenerator/":
 * Linux: `./plotg.py -l minimalExample`
 * Windows: `python plotg.py -l minimalExample`
-Result similar to: ``
 
 If this works you've just got your first random string! Let's make some other calls! (I will no longer mention the operating system's specifics)
 * `plotg.py -l minimalExample -n 10`
