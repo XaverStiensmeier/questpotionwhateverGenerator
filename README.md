@@ -1,6 +1,8 @@
 # questpotionwhateverGenerator
 Generates whatever you want at (weighted) random. This allows you to create random tables with ease!
 
+Comment: It might be better to just use jinja templating instead of this project.
+
 ## plotg.py - The Main Program
 
 ### Folder structure
